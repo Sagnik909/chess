@@ -1,0 +1,41 @@
+body{
+    text-align: center;
+    background: linear-gradient(black 0%,grey 100%);
+    background-image: url(https://cdn.wallpapersafari.com/0/20/ETbXW7.jpg);
+    color: white;
+    margin-top: 60px;
+    font-weight: bolder;
+}
+h1{
+    font-family: cursive;
+    font-size: 40px;
+}
+.line{
+    background-color:white;
+   height: 6px;
+   width: 70px;
+   margin: 8px auto;
+}
+p{
+    font-family: sans-serif;
+    font-size: 20px;
+}
+#leaders{
+    text-align: left;
+    margin-bottom: 80px;
+}
+#home{
+    margin-bottom: 80px;
+}
+.point{
+    font-size: 25px;
+}
+#abg{
+    margin-bottom: 80px;
+}
+h3{
+    font-size: 30px;
+}
+h5{
+    font-size: 25px;
+}
