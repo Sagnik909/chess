@@ -1,7 +1,7 @@
 body{
     text-align: center;
-    background: linear-gradient(black 0%,grey 100%);
-    background-image: url(https://cdn.wallpapersafari.com/0/20/ETbXW7.jpg);
+    background: black;
+    
     color: white;
     margin-top: 60px;
     font-weight: bolder;
@@ -37,5 +37,17 @@ h3{
     font-size: 30px;
 }
 h5{
+    font-size: 25px;
+}
+.fix{
+    font-size: 35px;
+}
+.line2{
+    background-color:white;
+   height: 4px;
+   width: 500px;
+   margin: 8px auto;
+}
+.dt{
     font-size: 25px;
 }
